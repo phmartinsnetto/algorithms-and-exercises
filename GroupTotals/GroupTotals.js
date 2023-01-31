@@ -4,7 +4,6 @@ function GroupTotals(strArr) {
     let inputMap = {};
     let tempKey = "";
     let tempValue = "";
-    let cleanMap = {};
     let tempStr = "";
     let joinArr = [];
     let string = "";
