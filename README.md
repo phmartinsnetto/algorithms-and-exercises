@@ -1,2 +1,5 @@
 # algorithms-and-exercises
-Some of the algorithms and exercises that I enjoyed solving
+Made this respository to post some of the exercises and algorithms that
+I enjoyed solving.
+
+
